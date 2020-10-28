@@ -28,5 +28,5 @@ logging:
 eureka:
   client:
     serviceUrl:
-      defaulZone: http://localhost:8099/eureka
+      defautlZone: http://localhost:8099/eureka
 
