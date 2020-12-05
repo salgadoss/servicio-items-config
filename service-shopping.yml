@@ -34,7 +34,7 @@ eureka:
 Feing:
   hystrix:
     enabled: true
-managment:
+management:
   endpoints:
     web:
       exposure:
