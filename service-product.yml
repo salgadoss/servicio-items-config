@@ -33,7 +33,7 @@ eureka:
       defaultZone: http://localhost:8099/eureka/
 
 managment:
-  endpoint:
+  endpoints:
     web:
       exposure:
         include: "*"

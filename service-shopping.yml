@@ -35,7 +35,7 @@ Feing:
   hystrix:
     enabled: true
 managment:
-  endpoint:
+  endpoints:
     web:
       exposure:
         include: "*"
